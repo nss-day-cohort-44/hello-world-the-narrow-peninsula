@@ -11,11 +11,10 @@ body {
 
 
 
-img {
-    
+/* img {
     width: 30%;
     height: 30%;
-}
+} */
 
 .country-container {
     justify-content: space-around;
@@ -27,7 +26,6 @@ img {
 .list__item {
     display: flex;
     justify-content: center;
-    
 } 
 
 .country__landmarks {
