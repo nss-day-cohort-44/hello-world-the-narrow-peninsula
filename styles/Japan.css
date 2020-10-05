@@ -9,11 +9,12 @@ body {
     background-color:red;
 }
 
-img {
-    
+
+
+/* img {
     width: 30%;
     height: 30%;
-}
+} */
 
 .country-container {
     justify-content: space-around;
@@ -22,17 +23,18 @@ img {
    
 }
 
-.country__cities {
+.list__item {
     display: flex;
     justify-content: center;
-    
 } 
 
 .country__landmarks {
     display: flex;
-
+    justify-content: center;
+    
 }
 
 .country__famous-citizens {
     display: flex;
+    justify-content: center;
 }
