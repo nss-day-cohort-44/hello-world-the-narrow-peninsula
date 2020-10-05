@@ -10,8 +10,7 @@ body {
 }
 
 img {
-    display: flex;
-    justify-content: space-evenly;
+    
     width: 30%;
     height: 30%;
 }
