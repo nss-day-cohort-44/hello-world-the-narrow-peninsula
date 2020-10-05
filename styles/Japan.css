@@ -2,29 +2,39 @@ body {
     /* background-color: crimson; */
 }
 
-nav__bar
-
-img {
-    width: 30%;
-    height: 30%;
+.nav__bar {
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color:red;
 }
 
+
+
+/* img {
+    width: 30%;
+    height: 30%;
+} */
+
 .country-container {
-    justify-content: space-evenly;
+    justify-content: space-around;
     display: flex;
+    background-color: red;
    
 }
 
-.country__cities {
+.list__item {
     display: flex;
     justify-content: center;
 } 
 
 .country__landmarks {
     display: flex;
-
+    justify-content: center;
+    
 }
 
 .country__famous-citizens {
     display: flex;
+    justify-content: center;
 }
