@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Questrial");
 
 /*Typography
 --------------------------------------------------------------*/
@@ -14,7 +14,7 @@ textarea {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Patua One", serif;
+  font-family: 'Questrial', sans-serif;
   letter-spacing: 2px;
   text-align: center;
 }
@@ -25,13 +25,20 @@ h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 	padding-bottom: 2em;
 	margin: 1em;
+	border-radius: 25px;
+}
+
+.nav__bar {
+	display: flex;
+	justify-content: space-evenly;
 }
 
 .nav__bar-button {
-	border: 1 px solid lightcoral;
+	border: 1 px solid rgb(10, 7, 7);
 	padding: 3px;
+	margin: 0 2px;
 	flex-basis: 2;
-	text-align: center;
+
 }
 
 .img__banner {
@@ -40,7 +47,8 @@ h1,h2,h3,h4,h5,h6 {
     display: block;
     width: 90%;
     margin-left: auto;
-    margin-right: auto;
+	margin-right: auto;
+	margin-top: 2em;
 }
 
 .logo {
@@ -69,8 +77,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 footer {
-	position: absolute;
-	bottom: 0;
+  justify-content: center;
+  align-content: flex-end;
+	color: #778899;
 }
 
 /* CODE BELOW THIS COMMENT IS ONLY FOR COLOR SCHEME */
@@ -84,4 +93,9 @@ body {
 
 .country-card {
     background-color: #bce6ff;
+}
+
+#active__page {
+	border: solid black 2px;
+  border-radius: 8px;
 }
