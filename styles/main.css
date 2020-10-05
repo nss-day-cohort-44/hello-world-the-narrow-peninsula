@@ -21,7 +21,12 @@ h1,h2,h3,h4,h5,h6 {
 
 .country-card {
 	border: 1px solid black;
-	width: 30%;
+}
+
+.nav__bar-button {
+	border: 1 px solid lightcoral;
+	padding: 3px;
+	flex-basis: 2;
 	text-align: center;
 }
 
