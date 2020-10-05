@@ -16,10 +16,13 @@ textarea {
 h1,h2,h3,h4,h5,h6 {
   font-family: "Patua One", serif;
   letter-spacing: 2px;
+  text-align: center;
 }
 
 .country-card {
 	border: 1px solid black;
+	width: 30%;
+	text-align: center;
 }
 
 .img__banner {
@@ -37,21 +40,26 @@ h1,h2,h3,h4,h5,h6 {
 
 .country-container {
     justify-content: space-around;
-    display: flex;
+	display: flex;
+	
    
 }
 
 .country__cities {
     display: flex;
-    justify-content: center;
+	justify-content: center;
+	
     
 } 
 
 .country__landmarks {
-    display: flex;
+	display: flex;
+	justify-content: center;
+	
 
 }
 
 .country__famous-citizens {
-    display: flex;
+	display: flex;
+	justify-content: center;
 }
