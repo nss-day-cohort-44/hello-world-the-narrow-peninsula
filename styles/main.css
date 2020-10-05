@@ -25,12 +25,10 @@ h1,h2,h3,h4,h5,h6 {
 .img__banner {
     width: 30%;
     height: 30%;
-    /* BELOW CODE HAS BEEN CHANGED  */
     display: block;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    /* CHANGES END HERE */
 }
 
 .logo {
