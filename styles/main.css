@@ -77,10 +77,25 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 footer {
-	align-content: flex-end;
+  justify-content: center;
+  align-content: flex-end;
 	color: #778899;
+}
+
+/* CODE BELOW THIS COMMENT IS ONLY FOR COLOR SCHEME */
+body {
+    background-color: #bce6ff;
+}
+
+.country-container {
+    background-color: #2d82b5;
+}
+
+.country-card {
+    background-color: #bce6ff;
 }
 
 #active__page {
 	border: solid black 2px;
+  border-radius: 8px;
 }
