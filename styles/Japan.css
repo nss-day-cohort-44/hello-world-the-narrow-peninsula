@@ -9,6 +9,8 @@ body {
     background-color:red;
 }
 
+
+
 img {
     
     width: 30%;
@@ -22,7 +24,7 @@ img {
    
 }
 
-.country__cities {
+.list__item {
     display: flex;
     justify-content: center;
     
@@ -30,9 +32,11 @@ img {
 
 .country__landmarks {
     display: flex;
-
+    justify-content: center;
+    
 }
 
 .country__famous-citizens {
     display: flex;
+    justify-content: center;
 }
