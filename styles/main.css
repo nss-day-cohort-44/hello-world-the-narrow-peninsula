@@ -20,7 +20,9 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 .country-card {
-	border: 1px solid black;
+    border: 1px solid black;
+    width: 30%;
+    text-align: center;
 }
 
 .nav__bar-button {
@@ -46,22 +48,16 @@ h1,h2,h3,h4,h5,h6 {
 .country-container {
     justify-content: space-around;
 	display: flex;
-	
-   
 }
 
 .country__cities {
     display: flex;
 	justify-content: center;
-	
-    
 } 
 
 .country__landmarks {
 	display: flex;
 	justify-content: center;
-	
-
 }
 
 .country__famous-citizens {
