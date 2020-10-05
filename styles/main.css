@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Comfortaa|Patua+One");
+@import url("https://fonts.googleapis.com/css?family=Comfortaa|Questrial");
 
 /*Typography
 --------------------------------------------------------------*/
@@ -14,7 +14,7 @@ textarea {
 }
 
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Patua One", serif;
+  font-family: 'Questrial', sans-serif;
   letter-spacing: 2px;
   text-align: center;
 }
@@ -25,6 +25,7 @@ h1,h2,h3,h4,h5,h6 {
 	text-align: center;
 	padding-bottom: 2em;
 	margin: 1em;
+	border-radius: 25px;
 }
 
 .nav__bar-button {
@@ -69,6 +70,5 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 footer {
-	position: absolute;
-	bottom: 0;
+	align-content: flex-end;
 }
