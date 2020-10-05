@@ -1,9 +1,30 @@
 body {
-    background-image: url();
+    /* background-color: crimson; */
 }
 
+nav__bar
 
 img {
     width: 30%;
     height: 30%;
+}
+
+.country-container {
+    justify-content: space-evenly;
+    display: flex;
+   
+}
+
+.country__cities {
+    display: flex;
+    justify-content: center;
+} 
+
+.country__landmarks {
+    display: flex;
+
+}
+
+.country__famous-citizens {
+    display: flex;
 }
