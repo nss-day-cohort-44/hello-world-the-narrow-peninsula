@@ -21,3 +21,30 @@ h1,h2,h3,h4,h5,h6 {
 .country-card {
 	border: 1px solid black;
 }
+
+img {
+    
+    width: 30%;
+    height: 30%;
+}
+
+.country-container {
+    justify-content: space-around;
+    display: flex;
+   
+}
+
+.country__cities {
+    display: flex;
+    justify-content: center;
+    
+} 
+
+.country__landmarks {
+    display: flex;
+
+}
+
+.country__famous-citizens {
+    display: flex;
+}

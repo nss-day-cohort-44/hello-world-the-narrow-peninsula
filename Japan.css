@@ -2,22 +2,31 @@ body {
     /* background-color: crimson; */
 }
 
-nav__bar
+.nav__bar {
+    
+    display: flex;
+    justify-content: space-evenly;
+    background-color:red;
+}
 
 img {
+    display: flex;
+    justify-content: space-evenly;
     width: 30%;
     height: 30%;
 }
 
 .country-container {
-    justify-content: space-evenly;
+    justify-content: space-around;
     display: flex;
+    background-color: red;
    
 }
 
 .country__cities {
     display: flex;
     justify-content: center;
+    
 } 
 
 .country__landmarks {
