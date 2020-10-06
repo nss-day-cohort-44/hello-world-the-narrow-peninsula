@@ -1,4 +1,5 @@
 @import url("https://fonts.googleapis.com/css?family=Comfortaa|Questrial");
+@import "cards.css"
 
 /*Typography
 --------------------------------------------------------------*/
@@ -19,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
   letter-spacing: 2px;
   text-align: center;
 }
-
+/* 
 .country-card {
     border: 1px solid black;
     width: 30%;
@@ -28,7 +29,7 @@ h1,h2,h3,h4,h5,h6 {
 	margin: 1em;
     border-radius: 25px;
     box-shadow: 5px 5px 10px;
-}
+} */
 
 .nav__bar {
 	display: flex;
@@ -57,7 +58,7 @@ h1,h2,h3,h4,h5,h6 {
     width: 1.5em;
 }
 
-.country-container {
+/* .country-container {
 	justify-content: center;
 	display: flex;
 
@@ -76,7 +77,7 @@ h1,h2,h3,h4,h5,h6 {
 .country__famous-citizens {
 	display: flex;
 	justify-content: center;
-}
+} */
 
 footer {
   justify-content: center;
