@@ -1,0 +1,31 @@
+
+.country-card {
+    border: 1px solid black;
+    width: 30%;
+	text-align: center;
+	padding-bottom: 2em;
+	margin: 1em;
+    border-radius: 25px;
+    box-shadow: 5px 5px 10px;
+}
+
+.country-container {
+	justify-content: center;
+	display: flex;
+
+}
+
+.country__cities {
+    display: flex;
+	justify-content: center;
+} 
+
+.country__landmarks {
+	display: flex;
+	justify-content: center;
+}
+
+.country__famous-citizens {
+	display: flex;
+	justify-content: center;
+}
