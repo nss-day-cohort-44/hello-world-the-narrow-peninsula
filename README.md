@@ -1,21 +1,17 @@
-# Hello, World
+(Hello, World Narrow Penninsula Group Project Website)
 
-## Goal
+# Narrow Penninsula Travel Company
 
-Your team is going to build a travel brochure site. Each of you will pick a country that you have always wanted to visit and build a page with the following components.
+Narrow Penninsula provides expert travel advice to 3 exclusive & exotic locations.
 
-1. Navigation with links to each page. There should be a visual clue for the active page.
-1. A header that includes an appealing image. It could be a city or landmark in that country.
-1. The header should also include a headline with the name of the country.
-1. A list of cities that you would like to visit in the country.
-1. A list of landmarks that you would like to visit in the country.
-1. A list of famous citizens. You can pick your favorites.
-1. A footer with copyright information.
+1. JAPAN 
+1. NEPAL
+1. JAMAICA
 
-## Setup
+Our website is designed to give you a flavor of the reasons why people love to travel to these three beautiful and very different countries. 
 
-1. Everyone clone the repository with `git clone {connection string}`
-1. Everyone immediately create their first feature branch with `git checkout -b {initials-feature}`
+<!-- TABLE OF CONTENTS -->
+## Table of Contents
 
 ## Requirements
 
@@ -34,3 +30,17 @@ Your team is going to build a travel brochure site. Each of you will pick a coun
 
 ## Stretch Goal
 1. Using [Sharethrough](https://headlines.sharethrough.com/), analyze your headline with the country name. Make adjustments to the copy to make it more engaging.
+
+<!-- CONTACT -->
+## Contact
+
+Charles Butterworth - [LinkedIn](www.linkedin.com/in/cbutterworth3/)
+
+Travis Stevenson - [LinkedIn](https://www.linkedin.com/in/travis-stevenson-353ba611b/)
+
+Benjamin Vale Schweizer - [LinkedIn](https://www.linkedin.com/in/benjamin-schweizer-08b8a6111/)
+
+
+<!-- ACKNOWLEDGEMENTS -->
+## Acknowledgements
+* [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
