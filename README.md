@@ -15,6 +15,15 @@ Our website is designed to give you a flavor of the reasons why people love to t
 
 ## Requirements
 
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+* [Usage](#usage)
+* [Contact](#contact)
+* [Acknowledgements](#acknowledgements)
+
 1. You must use semantic HTML tags
 1. You must use CSS imports
 1. You must use good CSS naming conventions, prefereably the BEM format
@@ -23,18 +32,17 @@ Our website is designed to give you a flavor of the reasons why people love to t
 1. You must do all work on a feature branch, never on `master`.
 1. Validate your HTML. Use a tool: [Validator](https://validator.w3.org/)
 
-## User Experience
+<!-- USAGE EXAMPLES -->
+## Usage
 
-1. Your team must decide on a consistent experience across all pages. Fonts, color scheme, layout, and structure.
-![Hello World Layout](./hello-world-wireframe.png)
-
-## Stretch Goal
-1. Using [Sharethrough](https://headlines.sharethrough.com/), analyze your headline with the country name. Make adjustments to the copy to make it more engaging.
+1. Explore information on Famous Cities.
+2. Learn some great locations to visit. 
+3. Learn about some famous citizens. 
 
 <!-- CONTACT -->
 ## Contact
 
-Charles Butterworth - [LinkedIn](www.linkedin.com/in/cbutterworth3/)
+Charles Butterworth - [LinkedIn](https://www.linkedin.com/in/cbutterworth3/)
 
 Travis Stevenson - [LinkedIn](https://www.linkedin.com/in/travis-stevenson-353ba611b/)
 
