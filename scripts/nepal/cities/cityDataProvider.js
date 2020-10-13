@@ -15,6 +15,3 @@ export const useCity = () => {
     return cityCollection.slice()
 }
 
-let test = useCity()
-
-console.log(test);
