@@ -33,7 +33,7 @@ Our website is designed to give you a flavor of the reasons why people love to t
 1. HTML (basic layout and use of semantic tags)
 1. CSS (multiple linked style sheets)
 1. BEM naming conventions [BEM](https://en.bem.info/methodology/naming-convention/) 
-1. Flexbox 
+1. [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) 
 1. Git/GitHub remote version control.
 
 ### How to Clone and Run/Edit our App
