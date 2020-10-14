@@ -8,29 +8,41 @@ Narrow Penninsula provides expert travel advice to 3 exclusive & exotic location
 1. NEPAL
 1. JAMAICA
 
+## About the Project
+
 Our website is designed to give you a flavor of the reasons why people love to travel to these three beautiful and very different countries. 
 
 <!-- TABLE OF CONTENTS -->
 ## Table of Contents
 
-## Requirements
 
 * [About the Project](#about-the-project)
-  * [Built With](#built-with)
-* [Getting Started](#getting-started)
-  * [Prerequisites](#prerequisites)
-  * [Installation](#installation)
+* [Prerequisites](#prerequisites)
+* [Built With](#built-with)
+* [How to Clone and Run/Edit our App](#how-to-clone-and-run/edit-our-app)
 * [Usage](#usage)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 
-1. You must use semantic HTML tags
-1. You must use CSS imports
-1. You must use good CSS naming conventions, prefereably the BEM format
-1. You must use Flexbox
-1. You have one of your teammates approve a pull request before your branch is merged into `master`.
-1. You must do all work on a feature branch, never on `master`.
-1. Validate your HTML. Use a tool: [Validator](https://validator.w3.org/)
+## Prerequisites 
+
+1. Git and a GitHub Profile
+
+## Built With
+
+1. HTML (basic layout and use of semantic tags)
+1. CSS (multiple linked style sheets)
+1. BEM naming conventions [BEM](https://en.bem.info/methodology/naming-convention/) 
+1. Flexbox 
+1. Git/GitHub remote version control.
+
+### How to Clone and Run/Edit our App
+
+1. Make sure you have an Code Editor or IDE if you would like to edit our project. We recommend [VS Code](https://code.visualstudio.com/) 
+
+1. Open terminal, Copy & Paste: <git clone git@github.com:nss-day-cohort-44/hello-world-the-narrow-peninsula.git> 
+
+1. Hit Enter and type: <git checkout -b "your-branch-name">. Hit Enter, and serve or test our code to your heart's content!
 
 <!-- USAGE EXAMPLES -->
 ## Usage
