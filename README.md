@@ -40,9 +40,9 @@ Our website is designed to give you a flavor of the reasons why people love to t
 
 1. Make sure you have an Code Editor or IDE if you would like to edit our project. We recommend [VS Code](https://code.visualstudio.com/) 
 
-1. Open terminal, Copy & Paste: <git clone git@github.com:nss-day-cohort-44/hello-world-the-narrow-peninsula.git> 
+1. Open terminal, Copy & Paste: ```git clone git@github.com:nss-day-cohort-44/hello-world-the-narrow-peninsula.git``` 
 
-1. Hit Enter and type: <git checkout -b "your-branch-name">. Hit Enter, and serve or test our code to your heart's content!
+1. Hit Enter and type: ```git checkout -b "your-branch-name"```. Hit Enter, and serve or test our code to your heart's content!
 
 <!-- USAGE EXAMPLES -->
 ## Usage
